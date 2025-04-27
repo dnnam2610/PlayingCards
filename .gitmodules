@@ -1,0 +1,3 @@
+[submodule "yolo-V8"]
+	path = yolo-V8
+	url = https://github.com/autogyro/yolo-V8.git
